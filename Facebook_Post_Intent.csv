@@ -1,0 +1,53 @@
+                                                                                                                       Questions,     Intent
+Do you have an insurance policy?,Negative
+What type of insurance do you have?,Positive
+How many insurance policies do you currently have?,Positive
+What kind of insurance policies do you have? Check as many as you’d like.,Positive
+What is the average term of the policies you have?,Positive
+ Have you ever received any benefits from any of the policies you currently have?,Positive
+"If yes, how many times have you received it?",Positive
+How regularly do you pay your premiums?,Positive
+Has any of your policies ever lapsed due to non-payment of premiums?,Positive
+Have you received any incentives from your insurance company on the insurance premiums?,Positive
+Are you aware of any insurance bonuses of your policies?,Positive
+Have you ever surrendered any insurance policy?,Positive
+Are you satisfied with how your agent handled your inquiry?,Positive
+Did your agent resolve your issue competently?,Positive
+Was your solution/answer delivered in a timely manner?,Positive
+How many agents assisted you today?,Positive
+Did your agent communicate in a clear manner?,Positive
+Did you feel confident in your agent’s ability to help you?,Positive
+"Overall, did you feel that your agent was knowledgeable about the policies?",Positive
+Was your agent professional and courteous?,Positive
+Did your agent make you feel like a valued customer?,Positive
+Did the policy meet your expectations?,Positive
+Did the description of the policy on our website accurately represent what you received?,Positive
+Did you receive the correct policy?,Positive
+"Is using product/service X simple? If not, what are you having trouble with?",Positive
+Will you buy more/similar policy from our company?,Positive
+Do you identify as a loyal customer of our brand?,Negative
+Would you like to receive information regarding our new releases/future policy?,Negative
+"Overall, I am very satisfied with the way [Company] performed (is performing) on this policy.",Negative
+"Compared to how you felt about [Company] before this policy, what is the likelihood of completing another policy with [Company]?",Negative
+"Considering the overall value of the policy you paid for, was it…",Negative
+How often do you typically use the policy?,Negative
+How did your [POLICY] perform?,Negative
+"Based on your experience with [POLICY], how likely are you to buy [POLICY] again?",Negative
+"Based on your experience with [POLICY], would you recommend this product to a friend?",Negative
+Which of the following words would you use to describe our policy?,Negative
+How well does our policy meet your needs?,Negative
+"If you could change just one thing about our policy, what would it be?",Negative
+ What problem would you like to solve with our policy?,Negative
+How would you rate the value for money of the policy?,Positive
+Were you able to find the information you were looking for the policy on our website?,Positive
+ How much effort did you personally have to put forth to handle your request?,Positive
+How did this effort compare to your expectations?,Positive
+How responsive have we been to your questions or concerns about our policy?,Positive
+To what extent do you agree with the following statement: The policy made it easy for me to handle my issue.,Positive
+" Compared to our competitors, is our policy quality better, worse, or about the same?",Positive
+Why did you choose our policy rather than a competitor’s?,Positive
+Which other options did you consider before choosing our policy?,Positive
+"On a scale from 0 to 10, how likely are you to recommend our policy to a friend or colleague?",Positive
+How likely are you to buy again from us?,Positive
+What would you say to someone who asked about us?,Positive
+What else would you like us to know?,
